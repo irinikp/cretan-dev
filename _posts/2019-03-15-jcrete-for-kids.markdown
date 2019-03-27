@@ -2,7 +2,7 @@
 layout: post
 title: "JCrete for Kids 2019"
 date: 2019-03-15 15:43:00 +0200
-categories: ["Java", "Kids", "Chania", "Heraklion"]
+categories: ["Java"]
 ---
 
 JCrete4Kids is a free event that introduces kids, aged 8-16, to Programming & and Robotics.

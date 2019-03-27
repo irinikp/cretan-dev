@@ -2,7 +2,7 @@
 layout: post
 title: "AgileCrete 2019"
 date: 2019-03-10 15:43:00 +0200
-categories: ["Agile", "Software Craftmanship", "Unconference", "Chania"]
+categories: ["Agile"]
 ---
 
 AgileCrete has always been a playground where coaches, scrum masters and developers gather to exchange and challenge ideas about all things agile. 
