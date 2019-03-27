@@ -1,0 +1,14 @@
+---
+layout: post
+title: "JCrete 2019"
+date: 2019-03-14 15:43:00 +0200
+categories: ["Java", "Unconference", "Chania"]
+---
+From Sunday the 14th until Saturday the 20th of July. 
+
+JCrete is a Java related Unconference. 
+
+This year it is being hosted in the Greek Orthodox Academy, 25km from Chania. 
+
+Site: [www.jcrete.org](http://www.jcrete.org){:target="_blank"}
+---
