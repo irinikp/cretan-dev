@@ -4,6 +4,7 @@ title: "JCrete 2019"
 date: 2019-03-14 15:43:00 +0200
 categories: ["Java", "Unconference", "Chania"]
 ---
+
 JCrete is a Java related Open Spaces Conference. 
 
 ## When 
