@@ -16,6 +16,7 @@ Heraklion TBD
 
 ## Links
 [www.meetup.com/devstaff/events](https://www.meetup.com/devstaff/events/260120194/){:target="_blank"}
+
 [devstaff.gr/](https://devstaff.gr/){:target="_blank"}
 
 ---
