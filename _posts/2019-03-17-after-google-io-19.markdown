@@ -8,7 +8,7 @@ categories: ["Google"]
 Join the exclusive opening party and two days packed with latest Google technology and updates on platforms, mobile and web technologies directly for their creators.
 
 ## When
-Friday 14 June 2019 - Sunday 16 June 2019
+Friday, June 14, 2019 - Sunday, June 16, 2019
 
 ## Where
 Heraklion TBD

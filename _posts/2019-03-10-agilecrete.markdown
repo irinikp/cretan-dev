@@ -10,7 +10,7 @@ AgileCrete has always been a playground where coaches, scrum masters and develop
 This year the Heraklion Software Crafters community joins their forces to create a unique unconference where discussions and hack sessions will help team members better understand each other
 
 ## When 
-Thursday 5 September 2019 - Saturday 7 September 2019 
+Thursday, September 5, 2019 - Saturday, September 7, 2019 
 
 ## Where
 At the Orthodox Academy of Crete (OAC) in Kolymbari, 25km from Chania. 

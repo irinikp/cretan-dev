@@ -8,7 +8,7 @@ categories: ["Java"]
 JCrete4Kids is a free event that introduces kids, aged 8-16, to Programming & and Robotics.
 
 ## When
-Sunday 20 July 2019, 09:00 - 14:30
+Sunday, July 20, 2019 09:00 - 14:30
 
 ## Where
 * At the Orthodox Academy of Crete (OAC) in Kolymbari, 25km from Chania. 
