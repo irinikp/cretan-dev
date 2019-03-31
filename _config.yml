@@ -13,7 +13,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://cretan.dev" # the base hostname & protocol for your site
 twitter_username: irinikp
 github_username:  irinikp
-paginate: 5
+paginate: 10
 theme-dark: false #Set to true to change to dark website theme
 
 plugins: [jekyll-paginate, kramdown]
