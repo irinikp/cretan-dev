@@ -9,10 +9,10 @@ Open Space discussion about the skills required to take the step towards becomin
 participating in a startup
 
 ## When
-Wednesday, April 3, 2019 19:00 - 22:00
+Wednesday, April 3, 2019 19:00 - 20:30
 
 ## Where
-Heraklion TBD
+Heraklion Pancretan Cooperative Bank
 
 ## Links
 [www.meetup.com/devstaff/events](https://www.meetup.com/devstaff/events/260120194/){:target="_blank"}
