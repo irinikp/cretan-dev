@@ -1,0 +1,26 @@
+---
+layout: page
+title: Past Events
+permalink: /archive/
+category: "past events"
+---
+
+<div class="home">
+
+  {% assign sorted_events = site.past-events | sort: 'future_date'  %}
+  {% for event in sorted_events %}
+  <div class="post postContent">
+    <div class="postTitle">
+    <a class='postLink' href="{{ event.url | prepend: site.baseurl }}">{{event.title}}</a>
+    </div>
+    <span class="post-meta-main">{{event.date1 | date: "%b %-d, %Y" }}
+      {% if event.date2 %} - {{event.date2 | date: "%b %-d, %Y" }}
+    {% endif %}</span>
+    <div class="postExt">
+   {{ event.content | strip_html | truncate:200}}
+    </div>
+  </div>
+
+  {% endfor %}
+
+</div>

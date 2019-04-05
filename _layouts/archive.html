@@ -1,27 +1,5 @@
 ---
-layout: page
+layout: default
 ---
 
-
-{% for post in site.posts %}
-{% for cat in post.categories %}
-{% if cat == page.category %}
-
-
-
-<div class="post postContent">
-  <div class="postTag">
-    {{post.tag}}
-  </div>
-  <br>
-  <div class="postTitle">
-  <a class='postLink' href="{{site.url}}{{site.baseurl}}{{post.url}}">{{post.title}}</a>
-  </div>
-  <div class="postExt">
-    {{post.excerpt}}
-  </div>
-</div>
-{% endif %}
-{% endfor %}
-
-{% endfor %}
+{{ content }}

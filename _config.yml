@@ -21,5 +21,9 @@ plugins: [jekyll-paginate, kramdown]
 markdown: kramdown
 collections:
   events:
-    output: true
-    permalink: /events/:path/
+      output: true
+      permalink: /events/:path/
+
+  past-events:
+      output: true
+      permalink: /past-events/:path/
