@@ -2,6 +2,7 @@
 layout: page
 title : About
 permalink: /about/
+priority: 3
 ---
 
 This website belongs to [irinikp](https://irinikp.com) and is made with <i class="fa fa-heart"></i> on [{ { Jekyll } }](http://jekyllrb.com){:target="_blank"}

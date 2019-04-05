@@ -3,6 +3,7 @@ layout: page
 title: Past Events
 permalink: /archive/
 category: "past events"
+priority: 2
 ---
 
 <div class="home">
