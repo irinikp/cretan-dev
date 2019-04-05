@@ -1,8 +1,9 @@
 ---
 layout: post
 title: "JCrete 2019"
-date: 2019-03-14 15:43:00 +0200
-categories: ["Java"]
+date1: 2019-07-14 09:00:00 +0200
+date2: 2019-07-20 09:00:00 +0200
+future_date: 20190714
 ---
 
 JCrete is a Java related Open Spaces Conference. 

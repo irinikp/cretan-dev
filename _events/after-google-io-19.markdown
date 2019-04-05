@@ -1,8 +1,9 @@
 ---
 layout: post
 title: "After Google I/O 19"
-date: 2019-03-17 15:43:00 +0200
-categories: ["Google"]
+date1: 2019-06-14 09:00:00 +0200
+date2: 2019-06-16 09:00:00 +0200
+future_date: 20190614
 ---
 
 Join the exclusive opening party and two days packed with latest Google technology and updates on platforms, mobile and web technologies directly for their creators.

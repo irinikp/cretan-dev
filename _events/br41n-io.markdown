@@ -1,8 +1,9 @@
 ---
 layout: post
 title: "BR41N.IO AT IEEE BIBE 2019"
-date: 2019-03-10 15:43:00 +0200
-categories: ["Brain"]
+date1: 2019-10-07 09:00:00 +0200
+date2: 2019-10-08 09:00:00 +0200
+future_date: 20191007
 ---
 
 The Brain-Computer Interface Designers Hackathon in Greece. 

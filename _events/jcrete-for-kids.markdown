@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "How can a developer become an entrepreneur?"
-date: 2019-03-28 09:24:00 +0200
-categories: ["DevStaff"]
+title: "JCrete for Kids 2019"
+date1: 2019-07-20 09:00 +0200
+future_date: 20190720
 ---
 
 Open Space discussion about the skills required to take the step towards becoming self-employed, starting your own business, 
@@ -20,3 +20,4 @@ Heraklion Pancretan Cooperative Bank
 [devstaff.gr/](https://devstaff.gr/){:target="_blank"}
 
 ---
+    

@@ -19,3 +19,7 @@ theme-dark: false #Set to true to change to dark website theme
 plugins: [jekyll-paginate, kramdown]
 # Build settings
 markdown: kramdown
+collections:
+  events:
+    output: true
+    permalink: /events/:path/

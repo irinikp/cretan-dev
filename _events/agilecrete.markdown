@@ -1,8 +1,9 @@
 ---
 layout: post
 title: "AgileCrete 2019"
-date: 2019-03-10 15:43:00 +0200
-categories: ["Agile"]
+date1: 2019-09-05 09:00:00 +0200
+date2: 2019-09-07 09:00:00 +0200
+future_date: 20190905
 ---
 
 AgileCrete has always been a playground where coaches, scrum masters and developers gather to exchange and challenge ideas about all things agile. 
