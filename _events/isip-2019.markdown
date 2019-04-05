@@ -1,0 +1,21 @@
+---
+layout: post
+title: "ISIP 2019"
+date1: 2019-05-09 09:00:00 +0200
+date2: 2019-05-10 09:00:00 +0200
+future_date: 20190509
+---
+
+The 13th International Workshop on Information Search, Integration, and Personalization.
+
+
+## When 
+Thursday, May 9, 2019 - Friday, May 10, 2019 
+
+## Where
+FORTH in Heraklion, Greece. (Nikolaou Plastira 100, Vassilika Vouton)
+
+## Links
+[isip2019.ics.forth.gr](https://isip2019.ics.forth.gr/){:target="_blank"}
+
+---
