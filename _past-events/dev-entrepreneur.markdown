@@ -12,7 +12,7 @@ participating in a startup
 Wednesday, April 3, 2019 19:00 - 20:30
 
 ## Where
-Heraklion Pancretan Cooperative Bank
+Heraklion Pancretan Cooperative Bank (Geor. Papandreou 28)
 
 ## Links
 [www.meetup.com/devstaff/events](https://www.meetup.com/devstaff/events/260120194/){:target="_blank"}
