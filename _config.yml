@@ -7,7 +7,6 @@
 
 # Site settings
 title: Developers in Crete
-email: irinikp@gmail.com
 description: Here you can find any developer related event happening in Crete, Greece.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://cretan.dev" # the base hostname & protocol for your site
