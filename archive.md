@@ -8,7 +8,7 @@ priority: 2
 
 <div class="home">
 
-  {% assign sorted_events = site.past-events | sort: 'future_date'  %}
+  {% assign sorted_events = site.past-events | sort: 'future_date' | reverse  %}
   {% for event in sorted_events %}
   <div class="post postContent">
     <div class="postTitle">
