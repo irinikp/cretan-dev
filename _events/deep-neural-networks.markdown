@@ -16,6 +16,7 @@ H2B HUB, Koroneou 14, Heraklion
 
 ## Links
 [www.meetup.com/GDG-Heraklion](https://www.meetup.com/GDG-Heraklion/events/262169820/){:target="_blank"}
+
 [gdggreece.gr/](https://gdggreece.gr/){:target="_blank"}
 
 ---
