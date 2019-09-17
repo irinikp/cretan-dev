@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "3rd Open Coffee Heraklion"
+title: "3rd Summer Meetup Open Coffee Heraklion"
 date1: 2019-08-01 19:30:00 +0200
 future_date: 20190801
 ---
