@@ -2,7 +2,7 @@
 layout: post
 title: "10th Open Coffee Heraklion"
 date1: 2019-09-20 18:00:00 +0200
-future_date: 20190420
+future_date: 20190921
 ---
 
 Talks from:
@@ -12,7 +12,7 @@ Talks from:
 
 ## When
 
-Saturday, April 20, 2019 18:00
+Saturday, September 21, 2019 18:00 - 23:00
 
 ## Where
 
